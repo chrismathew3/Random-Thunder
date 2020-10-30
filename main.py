@@ -42,5 +42,5 @@ im = Image.new(mode="RGB", size=image_size)
 im.putdata(get_rgb())
 #show and save image
 im.show()
-im.save("random_bitmap.jpg")
+im.save("Random_BitMap.jpg")
 
